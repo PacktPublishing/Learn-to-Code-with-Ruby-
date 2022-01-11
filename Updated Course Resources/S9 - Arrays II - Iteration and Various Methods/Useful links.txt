@@ -1,0 +1,1 @@
+Array map method - https://ruby-doc.org/core-2.5.0/Array.html#method-i-map

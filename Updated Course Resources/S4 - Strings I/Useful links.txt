@@ -1,0 +1,7 @@
+String Documentation - https://ruby-doc.org/core-2.3.3/String.html
+
+length method - https://ruby-doc.org/core-2.5.0/String.html#method-i-length
+
+size method - https://ruby-doc.org/core-2.5.0/String.html#method-i-size
+
+reverse method - https://ruby-doc.org/core-2.4.0/String.html#method-i-reverse

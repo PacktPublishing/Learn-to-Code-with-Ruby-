@@ -1,0 +1,11 @@
+Install Ruby 2.7.1
+
+The next batch of videos focuses on installing Ruby on a MacOS machine.
+
+The videos afterwards focus on installing Ruby on a Windows computer.
+
+You do not have to watch the videos for a specific operating system if you will not be working with it.
+
+Please note that 2.7.1 is the latest version of Ruby as of May 2020. The majority of the course videos (after installation) were recorded with version 2.3.3. There are slight differences between that older version and the latest version, but they will be largely irrelevant to a programmer new to the language.
+
+Good luck!
