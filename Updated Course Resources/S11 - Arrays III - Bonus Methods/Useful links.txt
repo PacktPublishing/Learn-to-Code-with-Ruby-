@@ -1,4 +1,0 @@
-Array compact method - https://ruby-doc.org/core-2.4.0/Array.html#method-i-compact
-
-Array flatten method - https://ruby-doc.org/core-2.4.0/Array.html#method-i-flatten
-

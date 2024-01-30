@@ -1,5 +1,0 @@
-Install rdoc
-
-If you experience any issues with the lessons ahead, open your Terminal / Command Prompt and execute the following command:
-
-gem install rdoc 
